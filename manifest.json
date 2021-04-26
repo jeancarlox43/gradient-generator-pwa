@@ -1,0 +1,62 @@
+{
+    "name": "Gradient App Vue", 
+    "short_name": "Gradient Vue",
+    "description": "Gradient Vue es una aplicacion que forma parte del curso de Vue 3 Desde cero.",
+    "background_color": "#eff",
+    "theme_color": "#eff",
+    "start_url": "./?umt_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-CO",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "icons":[
+        {
+            "src": "./img/gradient16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        
+        {
+            "src": "./img/gradient32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+
+        {
+            "src": "./img/gradient64.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        },
+
+        {
+            "src": "./img/gradient128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+
+        {
+            "src": "./img/maskable_icon_x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+
+        {
+            "src": "./img/gradient256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+
+        {
+            "src": "./img/gradient512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+
+        {
+            "src": "./img/gradient1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        }
+    ]
+}
